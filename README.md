@@ -30,6 +30,3 @@ A couple of things I'm building are still private while they're rough: a persona
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-<img src="https://github-readme-stats.vercel.app/api?username=loman19&show_icons=true&theme=default&hide_title=true&hide_border=true" alt="loman19's GitHub stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=loman19&hide_border=true" alt="loman19's GitHub streak" width="48%" />

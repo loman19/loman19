@@ -17,9 +17,8 @@ Backend/full-stack engineer. I like systems that have to be *correct*, not just 
 | [white-magic-whiteboard](https://github.com/loman19/white-magic-whiteboard) | Real-time collaborative whiteboard — Next.js, Node/Express, Socket.IO, Supabase/Postgres |
 | [hubspot_local](https://github.com/loman19/hubspot_local) | Local dev harness for running HubSpot custom code actions without deploying first |
 | [restaurant-feed](https://github.com/loman19/restaurant-feed) | Dockerized Flask service for restaurant data feeds, with a test suite |
-| [dsa-practice](https://github.com/loman19/dsa-practice) | Ongoing data structures & algorithms practice, one problem at a time |
 
-A couple of things I'm building are still private while they're rough: a personal finance dashboard with a signal-channel accuracy watchdog, and a real-time posture detection tool.
+A couple of things I'm building are still private while they're rough: a personal finance dashboard with a signal-channel accuracy watchdog, a real-time posture detection tool, and an ongoing DSA practice log.
 
 ---
 
@@ -31,3 +30,12 @@ A couple of things I'm building are still private while they're rough: a persona
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+#### GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=loman19&show_icons=true&hide_border=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loman19&layout=compact&hide_border=true&theme=default" />
+</p>

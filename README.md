@@ -36,6 +36,6 @@ A couple of things I'm building are still private while they're rough: a persona
 #### GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=loman19&show_icons=true&hide_border=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loman19&layout=compact&hide_border=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=loman19&show_icons=true&hide_border=true&theme=dark_dimmed&border_radius=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loman19&layout=compact&hide_border=true&theme=dark_dimmed&border_radius=8" />
 </p>

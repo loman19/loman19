@@ -3,7 +3,7 @@
 Backend/full-stack engineer. I like systems that have to be *correct*, not just functional — idempotent request handling, integrations that don't silently drop data, real-time state that stays in sync across clients.
 
 - 🔧 Currently building a **rewards & discount engine** with idempotent, replay-safe request handling, and a **personal finance tool** that scores Telegram F&O signal channels against real NSE price outcomes
-- 🧠 Also poking at computer vision (real-time posture detection) and running a public [DSA practice log](https://github.com/loman19/dsa-practice)
+- 🧠 Also poking at computer vision (real-time posture detection)
 - 🌱 Curious about ML/LLMs, and looking to move into data engineering next
 - 📫 anmol.kabi29@gmail.com · [LinkedIn](https://www.linkedin.com/in/anmol-kabi-1a6b10197/)
 
